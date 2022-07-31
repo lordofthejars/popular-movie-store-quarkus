@@ -1,0 +1,12 @@
+auth:
+  rootPassword: alex
+  rootUser: admin
+  database: movies
+  username: alex
+  password: alex
+persistence:
+  enabled: false
+containerSecurityContext:
+  enabled: false
+podSecurityContext:
+  enabled: false
